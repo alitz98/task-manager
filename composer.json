@@ -1,0 +1,21 @@
+{
+    "name": "ali/7map",
+    "description": "this is a poject of 7map",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ali\\7map\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ali tz",
+            "email": "tzali22@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "hekmatinasser/verta": "^2.1"
+    }
+}
